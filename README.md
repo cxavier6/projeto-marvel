@@ -45,6 +45,7 @@ Projeto desenvolvido a partir da Mapadev Week do Dev em Dobro. O projeto aborda 
 
 [![projeto-marvel.png](https://i.postimg.cc/h4pBmBmf/projeto-marvel.png)](https://postimg.cc/LhYwdGNp)
 
+
 ---
 
 ## 🛠 Como funciona o projeto
