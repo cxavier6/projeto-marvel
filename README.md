@@ -43,7 +43,7 @@ Projeto desenvolvido a partir da Mapadev Week do Dev em Dobro. O projeto aborda 
 
 ## 🎨 Layout
 
-[![projeto-marvel.png](https://i.postimg.cc/h4pBmBmf/projeto-marvel.png)](https://postimg.cc/LhYwdGNp)
+![image](https://user-images.githubusercontent.com/79461028/171752017-6c82e4eb-acea-4132-b982-a637cbb66c5b.png)
 
 ---
 
